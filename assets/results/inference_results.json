@@ -1,0 +1,1152 @@
+[
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0012-091.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0012-091",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0012-091.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0012-091.npy",
+    "segmented_pixels": 58968,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.05623626708984375,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      362,
+      380,
+      787,
+      593
+    ],
+    "metrics": {
+      "dice": 0.39594581565753956,
+      "iou": 0.24684067378923802
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0007-073.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0007-073",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0007-073.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0007-073.npy",
+    "segmented_pixels": 203039,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.1936330795288086,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      234,
+      266,
+      913,
+      737
+    ],
+    "metrics": {
+      "dice": 0.7959026623992864,
+      "iou": 0.6609952846380373
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0012-101.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0012-101",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0012-101.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0012-101.npy",
+    "segmented_pixels": 4039,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0038518905639648438,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      356,
+      368,
+      475,
+      439
+    ],
+    "metrics": {
+      "dice": 0.6584518875322056,
+      "iou": 0.490814963259853
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0035-019.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0035-019",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0035-019.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0035-019.npy",
+    "segmented_pixels": 15087,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.014388084411621094,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      312,
+      478,
+      669,
+      591
+    ],
+    "metrics": {
+      "dice": 0.21592378034183943,
+      "iou": 0.12102833834263632
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0014-053.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0014-053",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0014-053.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0014-053.npy",
+    "segmented_pixels": 173241,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.16521549224853516,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      260,
+      350,
+      811,
+      739
+    ],
+    "metrics": {
+      "dice": 0.8220431776953374,
+      "iou": 0.6978551014179084
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0025-077.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0025-077",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0025-077.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0025-077.npy",
+    "segmented_pixels": 1824,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.001739501953125,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      450,
+      422,
+      533,
+      487
+    ],
+    "metrics": {
+      "dice": 0.5273023634881826,
+      "iou": 0.3580520199225235
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0018-042.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0018-042",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0018-042.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0018-042.npy",
+    "segmented_pixels": 175522,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.1673908233642578,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      210,
+      340,
+      881,
+      693
+    ],
+    "metrics": {
+      "dice": 0.41230516679648566,
+      "iou": 0.2596879187196016
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0006-039.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0006-039",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0006-039.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0006-039.npy",
+    "segmented_pixels": 125238,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.11943626403808594,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      328,
+      312,
+      823,
+      709
+    ],
+    "metrics": {
+      "dice": 0.7886857190677434,
+      "iou": 0.6510991668163542
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0009-008.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0009-008",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0009-008.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0009-008.npy",
+    "segmented_pixels": 15223,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.014517784118652344,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      444,
+      484,
+      727,
+      607
+    ],
+    "metrics": {
+      "dice": 0.6045174840635248,
+      "iou": 0.4331960287283481
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0012-016.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0012-016",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0012-016.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0012-016.npy",
+    "segmented_pixels": 44917,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.04283618927001953,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      264,
+      442,
+      723,
+      597
+    ],
+    "metrics": {
+      "dice": 0.421333851459659,
+      "iou": 0.2668923076923077
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0001-007.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0001-007",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0001-007.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0001-007.npy",
+    "segmented_pixels": 40404,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.038532257080078125,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      224,
+      424,
+      731,
+      567
+    ],
+    "metrics": {
+      "dice": 0.2647810081887161,
+      "iou": 0.15259227189089727
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0015-071.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0015-071",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0015-071.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0015-071.npy",
+    "segmented_pixels": 172267,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.16428661346435547,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      232,
+      324,
+      855,
+      651
+    ],
+    "metrics": {
+      "dice": 0.6078977720878799,
+      "iou": 0.436676100288703
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0016-079.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0016-079",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0016-079.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0016-079.npy",
+    "segmented_pixels": 2127,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0020284652709960938,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      452,
+      402,
+      515,
+      485
+    ],
+    "metrics": {
+      "dice": 0.5231727422604873,
+      "iou": 0.3542545274125527
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0036-026.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0036-026",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0036-026.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0036-026.npy",
+    "segmented_pixels": 132258,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.1261310577392578,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      286,
+      364,
+      787,
+      699
+    ],
+    "metrics": {
+      "dice": 0.6288771542508229,
+      "iou": 0.4586585047433926
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0020-066.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0020-066",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0020-066.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0020-066.npy",
+    "segmented_pixels": 196263,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.18717098236083984,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      196,
+      270,
+      879,
+      763
+    ],
+    "metrics": {
+      "dice": 0.8328315813426727,
+      "iou": 0.7135487629974901
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0039-080.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0039-080",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0039-080.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0039-080.npy",
+    "segmented_pixels": 165594,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.15792274475097656,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      266,
+      378,
+      817,
+      737
+    ],
+    "metrics": {
+      "dice": 0.6267899101872395,
+      "iou": 0.4564413812839836
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0013-060.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0013-060",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0013-060.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0013-060.npy",
+    "segmented_pixels": 218983,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.20883846282958984,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      176,
+      300,
+      877,
+      789
+    ],
+    "metrics": {
+      "dice": 0.7674459438482738,
+      "iou": 0.6226468851551952
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0001-050.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0001-050",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0001-050.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0001-050.npy",
+    "segmented_pixels": 212185,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.20235538482666016,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      100,
+      304,
+      913,
+      819
+    ],
+    "metrics": {
+      "dice": 0.6979253642025389,
+      "iou": 0.5360102600993312
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0029-020.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0029-020",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0029-020.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0029-020.npy",
+    "segmented_pixels": 106650,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.10170936584472656,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      258,
+      400,
+      841,
+      619
+    ],
+    "metrics": {
+      "dice": 0.30826882531279337,
+      "iou": 0.1822209284343246
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0001-085.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0001-085",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0001-085.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0001-085.npy",
+    "segmented_pixels": 6047,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.005766868591308594,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      412,
+      374,
+      503,
+      489
+    ],
+    "metrics": {
+      "dice": 0.835561980484279,
+      "iou": 0.7175667287399131
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0007-016.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0007-016",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0007-016.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0007-016.npy",
+    "segmented_pixels": 15386,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.014673233032226562,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      316,
+      454,
+      605,
+      577
+    ],
+    "metrics": {
+      "dice": 0.042446818939319675,
+      "iou": 0.02168360959487205
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0006-083.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0006-083",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0006-083.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0006-083.npy",
+    "segmented_pixels": 1688,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.00160980224609375,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      464,
+      378,
+      539,
+      449
+    ],
+    "metrics": {
+      "dice": 0.39907094594594594,
+      "iou": 0.24927459773146926
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0021-012.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0021-012",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0021-012.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0021-012.npy",
+    "segmented_pixels": 16792,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.01601409912109375,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      478,
+      508,
+      767,
+      609
+    ],
+    "metrics": {
+      "dice": 0.2137425816023739,
+      "iou": 0.11965945076052537
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0039-088.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0039-088",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0039-088.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0039-088.npy",
+    "segmented_pixels": 6993,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.006669044494628906,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      442,
+      368,
+      589,
+      541
+    ],
+    "metrics": {
+      "dice": 0.32538244036830277,
+      "iou": 0.19430253701619188
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0026-018.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0026-018",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0026-018.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0026-018.npy",
+    "segmented_pixels": 165724,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.15804672241210938,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      218,
+      232,
+      815,
+      663
+    ],
+    "metrics": {
+      "dice": 0.5790694501296221,
+      "iou": 0.40752832725177646
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0033-072.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0033-072",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0033-072.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0033-072.npy",
+    "segmented_pixels": 178278,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.17001914978027344,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      276,
+      318,
+      847,
+      713
+    ],
+    "metrics": {
+      "dice": 0.8267550985301707,
+      "iou": 0.7046739325220338
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0034-091.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0034-091",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0034-091.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0034-091.npy",
+    "segmented_pixels": 6000,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0057220458984375,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      400,
+      342,
+      503,
+      433
+    ],
+    "metrics": {
+      "dice": 0.6665443873807777,
+      "iou": 0.4998624484181568
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0030-034.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0030-034",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0030-034.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0030-034.npy",
+    "segmented_pixels": 162723,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.15518474578857422,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      248,
+      332,
+      843,
+      703
+    ],
+    "metrics": {
+      "dice": 0.40940081319157784,
+      "iou": 0.25738779234072856
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0026-008.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0026-008",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0026-008.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0026-008.npy",
+    "segmented_pixels": 120384,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.11480712890625,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      266,
+      288,
+      833,
+      659
+    ],
+    "metrics": {
+      "dice": 0.29788695192815634,
+      "iou": 0.17501008658949133
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0038-013.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0038-013",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0038-013.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0038-013.npy",
+    "segmented_pixels": 2255,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0021505355834960938,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      496,
+      502,
+      601,
+      551
+    ],
+    "metrics": {
+      "dice": 0.5687446626814688,
+      "iou": 0.39737470167064437
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0003-028.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0003-028",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0003-028.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0003-028.npy",
+    "segmented_pixels": 70468,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.06720352172851562,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      258,
+      338,
+      743,
+      537
+    ],
+    "metrics": {
+      "dice": 0.38659415598428937,
+      "iou": 0.23961370749846178
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0020-028.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0020-028",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0020-028.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0020-028.npy",
+    "segmented_pixels": 179867,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.17153453826904297,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      234,
+      346,
+      899,
+      773
+    ],
+    "metrics": {
+      "dice": 0.5867945867945868,
+      "iou": 0.4152224307318689
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0005-013.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0005-013",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0005-013.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0005-013.npy",
+    "segmented_pixels": 2877,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0027437210083007812,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      402,
+      514,
+      555,
+      561
+    ],
+    "metrics": {
+      "dice": 0.2829758101323597,
+      "iou": 0.16480595427963848
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0029-017.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0029-017",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0029-017.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0029-017.npy",
+    "segmented_pixels": 16491,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.01572704315185547,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      468,
+      416,
+      789,
+      557
+    ],
+    "metrics": {
+      "dice": 0.6251713737318344,
+      "iou": 0.45472676505783804
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0033-079.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0033-079",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0033-079.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0033-079.npy",
+    "segmented_pixels": 74126,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.07069206237792969,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      466,
+      346,
+      837,
+      687
+    ],
+    "metrics": {
+      "dice": 0.7902825979176995,
+      "iou": 0.6532786885245901
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0028-015.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0028-015",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0028-015.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0028-015.npy",
+    "segmented_pixels": 17623,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.016806602478027344,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      464,
+      500,
+      751,
+      629
+    ],
+    "metrics": {
+      "dice": 0.6116019286634123,
+      "iou": 0.4405090595340811
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0037-062.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0037-062",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0037-062.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0037-062.npy",
+    "segmented_pixels": 198968,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.18975067138671875,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      220,
+      320,
+      857,
+      793
+    ],
+    "metrics": {
+      "dice": 0.8712166015418735,
+      "iou": 0.7718191131548541
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0033-007.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0033-007",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0033-007.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0033-007.npy",
+    "segmented_pixels": 1914,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0018253326416015625,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      528,
+      484,
+      623,
+      541
+    ],
+    "metrics": {
+      "dice": 0.6144578313253012,
+      "iou": 0.4434782608695652
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0040-003.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0040-003",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0040-003.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0040-003.npy",
+    "segmented_pixels": 2974,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0028362274169921875,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      468,
+      456,
+      579,
+      533
+    ],
+    "metrics": {
+      "dice": 0.6235082188696239,
+      "iou": 0.4529690822836578
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0031-087.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0031-087",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0031-087.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0031-087.npy",
+    "segmented_pixels": 43694,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.04166984558105469,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      436,
+      376,
+      793,
+      577
+    ],
+    "metrics": {
+      "dice": 0.6421902076921088,
+      "iou": 0.4729603596395984
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0010-036.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0010-036",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0010-036.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0010-036.npy",
+    "segmented_pixels": 194862,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.1858348846435547,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      172,
+      332,
+      865,
+      719
+    ],
+    "metrics": {
+      "dice": 0.3809801493789192,
+      "iou": 0.23531530464729594
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0010-010.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0010-010",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0010-010.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0010-010.npy",
+    "segmented_pixels": 2019,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0019254684448242188,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      514,
+      490,
+      607,
+      545
+    ],
+    "metrics": {
+      "dice": 0.6634780945092787,
+      "iou": 0.4964214142570856
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0036-087.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0036-087",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0036-087.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0036-087.npy",
+    "segmented_pixels": 3068,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.002925872802734375,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      420,
+      400,
+      507,
+      463
+    ],
+    "metrics": {
+      "dice": 0.7844330557335042,
+      "iou": 0.6453227931488801
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0005-079.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0005-079",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0005-079.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0005-079.npy",
+    "segmented_pixels": 39236,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.037418365478515625,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      464,
+      324,
+      801,
+      513
+    ],
+    "metrics": {
+      "dice": 0.44810899344848126,
+      "iou": 0.28875029983209405
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0032-102.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0032-102",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0032-102.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0032-102.npy",
+    "segmented_pixels": 6214,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.0059261322021484375,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      404,
+      348,
+      485,
+      477
+    ],
+    "metrics": {
+      "dice": 0.405736853045105,
+      "iou": 0.25449804432855283
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0003-092.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0003-092",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0003-092.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0003-092.npy",
+    "segmented_pixels": 42011,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.04006481170654297,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      438,
+      368,
+      735,
+      627
+    ],
+    "metrics": {
+      "dice": 0.2387246628678375,
+      "iou": 0.13554079696394686
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0019-036.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0019-036",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0019-036.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0019-036.npy",
+    "segmented_pixels": 245402,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.23403358459472656,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      178,
+      296,
+      921,
+      795
+    ],
+    "metrics": {
+      "dice": 0.8211776548389625,
+      "iou": 0.6966084908466699
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0011-030.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0011-030",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0011-030.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0011-030.npy",
+    "segmented_pixels": 208238,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.1985912322998047,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      166,
+      310,
+      877,
+      753
+    ],
+    "metrics": {
+      "dice": 0.5973374816394073,
+      "iou": 0.42585973020621154
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0027-027.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0027-027",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0027-027.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0027-027.npy",
+    "segmented_pixels": 85001,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.08106327056884766,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      264,
+      414,
+      767,
+      641
+    ],
+    "metrics": {
+      "dice": 0.556659913399277,
+      "iou": 0.3856748098158158
+    }
+  },
+  {
+    "image_path": "data/npy/CT_Abd/imgs/CT_Abd_FLARE22_Tr_0010-029.npy",
+    "image_name": "CT_Abd_FLARE22_Tr_0010-029",
+    "segmentation_path": "assets/results/segmentations/seg_CT_Abd_FLARE22_Tr_0010-029.npy",
+    "gt_path": "data/npy/CT_Abd/gts/CT_Abd_FLARE22_Tr_0010-029.npy",
+    "segmented_pixels": 123111,
+    "total_pixels": 1048576,
+    "segmentation_ratio": 0.11740779876708984,
+    "image_size": [
+      1024,
+      1024
+    ],
+    "bounding_box": [
+      278,
+      396,
+      853,
+      667
+    ],
+    "metrics": {
+      "dice": 0.4202674053420322,
+      "iou": 0.26603705384266346
+    }
+  }
+]

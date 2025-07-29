@@ -56,7 +56,7 @@ def show_box(box, ax):
 
 
 class NpyDataset(Dataset):
-    def __init__(self, data_root, bbox_shift=20):
+    def __init__(self, data_root, bbox_shift=20, max_samples = None):
         self.data_root = data_root
         self.gt_path = join(data_root, "gts")
         self.img_path = join(data_root, "imgs")
@@ -68,6 +68,8 @@ class NpyDataset(Dataset):
             for file in self.gt_path_files
             if os.path.isfile(join(self.img_path, os.path.basename(file)))
         ]
+        if max_samples: 
+            self.gt_path_files = self.gt_path_files[:max_samples]
         self.bbox_shift = bbox_shift
         print(f"number of images: {len(self.gt_path_files)}")
 
@@ -115,7 +117,7 @@ class NpyDataset(Dataset):
 
 
 # %% sanity test of dataset class
-tr_dataset = NpyDataset("data/npy/CT_Abd")
+tr_dataset = NpyDataset("data/npy/CT_Abd", max_samples = 100)
 tr_dataloader = DataLoader(tr_dataset, batch_size=8, shuffle=True)
 for step, (image, gt, bboxes, names_temp) in enumerate(tr_dataloader):
     print(image.shape, gt.shape, bboxes.shape)
@@ -162,7 +164,7 @@ parser.add_argument(
 parser.add_argument("-pretrain_model_path", type=str, default="")
 parser.add_argument("-work_dir", type=str, default="./work_dir")
 # train
-parser.add_argument("-num_epochs", type=int, default=1000)
+parser.add_argument("-num_epochs", type=int, default=50)
 parser.add_argument("-batch_size", type=int, default=2)
 parser.add_argument("-num_workers", type=int, default=0)
 # Optimizer parameters
@@ -289,7 +291,7 @@ def main():
     iter_num = 0
     losses = []
     best_loss = 1e10
-    train_dataset = NpyDataset(args.tr_npy_path)
+    train_dataset = NpyDataset(args.tr_npy_path, max_samples = 100)
 
     print("Number of training samples: ", len(train_dataset))
     train_dataloader = DataLoader(
@@ -330,7 +332,7 @@ def main():
                 optimizer.zero_grad()
             else:
                 medsam_pred = medsam_model(image, boxes_np)
-                loss = seg_loss(medsam_pred, gt2D) + ce_loss(medsam_pred, gt2D.float())
+                loss = seg_loss(medsam_pred, gt2D.float()) + ce_loss(medsam_pred, gt2D.float())
                 loss.backward()
                 optimizer.step()
                 optimizer.zero_grad()
